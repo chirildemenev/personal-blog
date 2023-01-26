@@ -12,6 +12,11 @@ a {
   text-decoration: none
 }
 
+img {
+  width: 40%;
+  height: auto;
+}
+
 .header {
   position: relative;
   overflow: hidden;
@@ -60,32 +65,6 @@ a {
 
 .header a {
   color: #eee
-}
-
-.menu {
-  display: block;
-  width: 40px;
-  height: 30px;
-  border: 2px solid #fff;
-  border-radius: 3px;
-  position: absolute;
-  right: 20px;
-  top: 20px;
-  text-decoration: none
-}
-
-.menu:after {
-  content: "";
-  display: block;
-  width: 20px;
-  height: 3px;
-  background: #fff;
-  position: absolute;
-  margin: 0 auto;
-  top: 5px;
-  left: 0;
-  right: 0;
-  box-shadow: 0 8px, 0 16px
 }
 
 .logo {
