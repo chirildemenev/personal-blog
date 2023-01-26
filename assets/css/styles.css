@@ -131,6 +131,25 @@ img {
   text-align: center
 }
 
+.textarea {
+  width: 100px;
+  height: 100px;
+  padding: 0;
+  margin: 0;
+  border: none;
+  outline: none;
+  background: white;
+  resize: none;
+}
+
+.button {
+  width: 100px;
+   height: 25px;
+   border: none;
+   background: blue;
+   margin: 0;
+}
+
 .btn {
   color: #333;
   border: 2px solid;
