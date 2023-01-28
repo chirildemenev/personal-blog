@@ -53,7 +53,6 @@ img {
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateZ(0);
   backface-visibility: hidden;
-  scale:(1.0, 1.0);
   transform: translateZ(0);
   background: #1B2030 url(../images/Untitled-1.jpg) 50% 0 no-repeat;
   background-size: 100%;
